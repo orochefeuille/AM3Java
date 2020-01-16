@@ -8,7 +8,7 @@ Il s'agit du célèbre jeu du MasterMind revisité pour pouvoir
 augmenter sa difficulté (déjà 5ans).
 
 Puis, ma curiosité m'a ammené vers d'autres langages de programmation.
-Aujourd'hui,je reviens vers JAVA et souhaite donc améliorer ce petit
+Aujourd'hui,je souhaite donc améliorer ce petit
 logiciel ludique, selon 3 (ou 4) axes :
 
 1- Améliorer l'interface graphique (utilisation et esthétisme) qui 
